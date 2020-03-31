@@ -1,0 +1,32 @@
+main immune cell type:
+
+T cell:
+Naive T: CCR7, SELL, LEF1, TCF7 (2018,NM,non-small lung cancer)
+Memory T: CD27, CCR7, IL7R
+Treg T: IL2RA, FOXP3, IKZF2
+inhibit T:LAG3, TIGIT, PDCD1, HAVCR2, CTLA4
+effector T: GZMA, GZMB, GZMK, GNLY, NKG7,PRF1, IL2,INFG
+co-stimulatory:CD28, TNFRSF9,TNFRSF14,ICOS
+TH1:TNF, INFG, CCL4,CCL4L2,CCL5,GZMA,GZMB(2019, lung, Teichman, NM)
+TH2: IL5, IL13, GATA3,IL1RL1,IL17RB,IL9R,NFKBID,NFKBIZ,LIF,PPARG,FFAR3,HPGDS, (2019, lung, Teichman, NM)
+TH17:IL17A, IL17F,IL23R,IL18RAP,GPR65 (2019, lung, Teichman, NM)
+
+B cell:
+
+
+red cell:
+erythroblast : HBA1
+
+
+DC:
+pDC: CLEC4C, IL3RA, LILRB4(2018,lung cancer, stroma)
+cDC: CD1C, CLEC9A
+Langerhans: FCER1A (2018,NM, lung cancer stroma)
+
+mast cell: TPSB2, TPSAB1, CPA3, CMA1, KIT, GATA2, PTGS2,HPGDS (2019,NM, Teichman, lung)
+neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
+Lymphatic: TFF3, GNG11, MMRN1, LYVE1 (2019, lung, Teichman, NM)
+Fibroblast: DCN, LUM, COL1A2,COL3A1,A2M(2019, lung, Teichman, NM)
+
+
+########
