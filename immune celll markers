@@ -12,6 +12,12 @@ TH2: IL5, IL13, GATA3,IL1RL1,IL17RB,IL9R,NFKBID,NFKBIZ,LIF,PPARG,FFAR3,HPGDS, (2
 TH17:IL17A, IL17F,IL23R,IL18RAP,GPR65 (2019, lung, Teichman, NM)
 
 B cell:
+pre-proB:CD34+ MME+ CD19+ EBF1+ E2A(TCF3)regulate D-J recombination
+pro-B:CD34+ MME+ CD19+ RAG2+ PAX5(EBF1 target gene)
+pre-B:CD34-MME+CD19+ CD79A CD79B
+immuture B:RAG2+ MME+ IL7R+
+mature B:RAG2- MME- CD19+ CD20+ CD40+
+plasma cell: CD38, SDC1(CD138),XBP1, PRDM1, not express CD19,CD20,PAX5
 
 
 red cell:
@@ -20,9 +26,11 @@ early Ery progenitor1(or MEP): GATA2, ITGA2B
 early Ery progenitor2(high proliferation):MYC, TK1, TFR2, CSF1
 late Ery progenitor: GYPA
 
+
 Megacryocyte:
 early Mk progenitor: GATA2, ITGA2B, PLEK, MEIS1, PBX1
 late Mk progenitor :GP9, VWF, CD9, PF4
+
 
 DC:
 pDC: CLEC4C, IL3RA, LILRB4(2018,lung cancer, stroma)，IRF4,IRF7,IRF8,CLEC4C
@@ -36,17 +44,20 @@ Eosenophil:EPX, RNASE3(EPC),RNASE2(EDN), CLC,PRG2
 Basophil: LMO4
 
 
-
-
+Myeloblast(GMP):MPO, AZU1, PRTN3, CTSG, ELANE
+pre-Myelocyte(pre-monocyte):LYZ
+monocyte:FCN1, CTSS, CD16, FCGR3A
+pre-neutrophil:S100P
 neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
-Lymphatic: TFF3, GNG11, MMRN1, LYVE1 (2019, lung, Teichman, NM)
-Fibroblast: DCN, LUM, COL1A2,COL3A1,A2M(2019, lung, Teichman, NM)
 
 MDSC：suspress host APC and T activity, feature: hetergeniety and immature
-
 mouse granulocytic MDSC:CD11b+Ly6G+Ly6Clo (review1)
 mouse monocytic MDSC:CD11b+Ly6GLy6Chi (review1)
 human monocytic MDSC: CD14+CD11b+HLA-DRlo/neg (melanoma);CD11b+CD14-CD15+CD33+(NSCLC), phenotype varied in different tumor
 
+Lymphatic: TFF3, GNG11, MMRN1, LYVE1 (2019, lung, Teichman, NM)
+Fibroblast: DCN, LUM, COL1A2,COL3A1,A2M(2019, lung, Teichman, NM)
 
+
+###############
 review1: Myeloid suppressor cells and immune modulation in lung cancer
