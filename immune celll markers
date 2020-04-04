@@ -15,17 +15,29 @@ B cell:
 
 
 red cell:
-erythroblast : HBA1
+ery progenitor: GATA1,HBB,KLF1,CA1,TFRC
+early Ery progenitor1(or MEP): GATA2, ITGA2B
+early Ery progenitor2(high proliferation):MYC, TK1, TFR2, CSF1
+late Ery progenitor: GYPA
 
+Megacryocyte:
+early Mk progenitor: GATA2, ITGA2B, PLEK, MEIS1, PBX1
+late Mk progenitor :GP9, VWF, CD9, PF4
 
 DC:
-pDC: CLEC4C, IL3RA, LILRB4(2018,lung cancer, stroma)
+pDC: CLEC4C, IL3RA, LILRB4(2018,lung cancer, stroma)，IRF4,IRF7,IRF8,CLEC4C
 cDC: CD1C, CLEC9A
 Langerhans: FCER1A (2018,NM, lung cancer stroma)
 
- CLC, HDC, PRG2 TFs: LMO4, GATA2, NR4A3
-
+ 
+BMEP:'CLC', 'HDC', 'PRG2','LMO4', 'GATA2', 'NR4A3'(2017, nature, human heampoietic)
 mast cell: TPSB2, TPSAB1, CPA3, CMA1, KIT, GATA2, PTGS2,HPGDS (2019,NM, Teichman, lung)
+Eosenophil:EPX, RNASE3(EPC),RNASE2(EDN), CLC,PRG2
+Basophil: LMO4
+
+
+
+
 neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
 Lymphatic: TFF3, GNG11, MMRN1, LYVE1 (2019, lung, Teichman, NM)
 Fibroblast: DCN, LUM, COL1A2,COL3A1,A2M(2019, lung, Teichman, NM)
