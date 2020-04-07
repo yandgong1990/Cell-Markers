@@ -2,7 +2,7 @@ main immune cell type:
 
 T cell:
 Naive T: CCR7, SELL, LEF1, TCF7 (2018,NM,non-small lung cancer)
-Memory T: CD27, CCR7, IL7R
+Memory T: CD27, CCR7, IL7R,CD44, ITGB1,ITGA4,ITGA5
 Treg T: IL2RA, FOXP3, IKZF2
 inhibit T:LAG3, TIGIT, PDCD1, HAVCR2, CTLA4
 effector T: GZMA, GZMB, GZMK, GNLY, NKG7,PRF1, IL2,INFG
@@ -18,6 +18,7 @@ pre-B:CD34-MME+CD19+ CD79A CD79B
 immuture B:RAG2+ MME+ IL7R+
 mature B:RAG2- MME- CD19+ CD20+ CD40+
 plasma cell: CD38, SDC1(CD138),XBP1, PRDM1, not express CD19,CD20,PAX5
+follicular B:FCER2(CD23)
 
 
 red cell:
@@ -49,6 +50,7 @@ pre-Myelocyte(pre-monocyte):LYZ
 monocyte:FCN1, CTSS, CD16, FCGR3A
 pre-neutrophil:S100P
 neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
+activated neutrophil:CD63
 
 MDSC：suspress host APC and T activity, feature: hetergeniety and immature
 mouse granulocytic MDSC:CD11b+Ly6G+Ly6Clo (review1)
@@ -57,6 +59,15 @@ human monocytic MDSC: CD14+CD11b+HLA-DRlo/neg (melanoma);CD11b+CD14-CD15+CD33+(N
 
 Lymphatic: TFF3, GNG11, MMRN1, LYVE1 (2019, lung, Teichman, NM)
 Fibroblast: DCN, LUM, COL1A2,COL3A1,A2M(2019, lung, Teichman, NM)
+
+difference between CD8 T and NK:
+NK:IFNG, NCR3
+T:TRAC,CD27,CD28
+
+difference between gdT and NK:
+sampe cytokine
+gdT: TRDC, TRGC1, TRGC2
+
 
 
 ###############
