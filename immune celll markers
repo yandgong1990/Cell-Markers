@@ -38,7 +38,8 @@ late Mk progenitor :GP9, VWF, CD9, PF4
 
 DC:
 pDC: CLEC4C, IL3RA, LILRB4(2018,lung cancer, stroma)，IRF4,IRF7,IRF8,CLEC4C
-cDC: CD1C, CLEC9A
+cDC2: CD1C
+cDC1:XCR1, CLEC9A,CADM1
 Langerhans: FCER1A (2018,NM, lung cancer stroma)
 
  
@@ -55,6 +56,11 @@ Immediate monocyte:CD14+,CD16+,IFI30+,IL1B+
 pre-neutrophil:S100P
 neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
 activated neutrophil:CD63
+MDP:LGALS1, SCT, TGFBI, SAMHD1
+LMPP：NEUR1, ACY3
+
+
+
 
 MDSC：suspress host APC and T activity, feature: hetergeniety and immature
 mouse granulocytic MDSC:CD11b+Ly6G+Ly6Clo (review1)
