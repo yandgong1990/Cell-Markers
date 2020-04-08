@@ -51,6 +51,7 @@ Basophil: LMO4
 Myeloblast(GMP):MPO, AZU1, PRTN3, CTSG, ELANE
 pre-Myelocyte(pre-monocyte):LYZ
 monocyte:FCN1, CTSS, CD16, FCGR3A
+Immediate monocyte:CD14+,CD16+,IFI30+,IL1B+
 pre-neutrophil:S100P
 neutrophil: S100A8,S100A12, FCN1(2019,NM,Lung,teichman),S100A9(2019, lung, Teichman, NM)
 activated neutrophil:CD63
