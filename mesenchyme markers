@@ -3,6 +3,7 @@ tendinocyte:SCX
 skeletal musal:PAX7, MYOD1
 fibrocyte:'PDGFRA','PDGFRB','SEMA3D',"PI16",'GDF10','ALDH1A2','FBN1','S100A4','SEMA3C'
 BMSC(human):THY1, CD271(NGFR), PDGFRA,BST2(CD317)
+hepatocyte:ALB, BLK1
 
 
 
