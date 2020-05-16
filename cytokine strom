@@ -1,0 +1,19 @@
+TH1 T cell ：IFNG, IL2, TNF, IL1B, IL18
+
+when cell were infected by virus, 
+1. it will produce cytokine recruiting neutrophil(CXCL8), monocyte(CCL2), Eso(CCL11),NK(CXCL10)
+2. recruited cell produce IL1B,IL12,IL6,which activate T 
+
+cell cytokine strom:
+TNF family: TNF, LTA
+IL family:  IL1A, IL1B(IL1R1, IL1R2)，IL6，IL12，IFNG
+CXC: CXCL9-11(regulate T, infiltration), CXCL8, CCL2, CCL11
+CSF:CSF1-3
+IFN：IFNA（1,2,7,17）,IFNB1, IFNG, IFNL1-4
+
+
+
+
+
+reference paper:
+Into the Eye of the Cytokine Storm
