@@ -5,5 +5,10 @@ fibrocyte:'PDGFRA','PDGFRB','SEMA3D',"PI16",'GDF10','ALDH1A2','FBN1','S100A4','S
 BMSC(human):THY1, CD271(NGFR), PDGFRA,BST2(CD317)
 hepatocyte:ALB, BLK1
 
+################小鼠神经系统#####################
+oli-godendrocytes:Hapln2
+interneuron regulators: Dlx1, Dlx2, Dlx5, Arx
+
+
 
 
