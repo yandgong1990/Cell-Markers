@@ -6,8 +6,12 @@ BMSC(human):THY1, CD271(NGFR), PDGFRA,BST2(CD317)
 hepatocyte:ALB, BLK1
 
 ################小鼠神经系统#####################
-oli-godendrocytes:Hapln2
-interneuron regulators: Dlx1, Dlx2, Dlx5, Arx
+NPC：Pax6, Sfrp1
+OPC:Pdgra, Olig1
+oligodendrocytes（少突胶质细胞）:Hapln2
+interneuron regulators（中间神经元）: Gad1, Pde4dip,Dlx1, Dlx2, Dlx5, Arx
+Astrocytes(星形胶质细胞): Aqp4,Slco1c1,Gfap,
+excitatory neuron:Neurod2, Rbfox1
 
 
 
