@@ -6,13 +6,14 @@ BMSC(human):THY1, CD271(NGFR), PDGFRA,BST2(CD317)
 hepatocyte:ALB, BLK1
 
 ################小鼠神经系统#####################
-NPC：Pax6, Sfrp1
+NPC：Pax6, Sfrp1,Vim, Hes1
 OPC:Pdgra, Olig1
 oligodendrocytes（少突胶质细胞）:Hapln2
 interneuron regulators（中间神经元）: Gad1, Pde4dip,Dlx1, Dlx2, Dlx5, Arx
 Astrocytes(星形胶质细胞): Aqp4,Slco1c1,Gfap,
-excitatory neuron:Neurod2, Rbfox1
-
+excitatory neuron:Neurod2, Rbfox1,Neurod6,Snap25
+microglia(小胶质)：P2ry12
+outer radial glial:HOPX, FAM107A and TNC
 
 
 
